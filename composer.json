@@ -22,8 +22,7 @@
             "name": "Erik Tilt"
         }
     ],
-    "require": {
-        "php": "^5.2|^7.0",
+    "require": { 
         "ext-mbstring": "*",
         "ext-xml": "*",
         "ext-xmlwriter": "*"
